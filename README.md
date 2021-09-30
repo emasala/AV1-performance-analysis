@@ -1,5 +1,5 @@
 # AV1-performance-analysis
-Performance analysis about AV1, HEVC and AVC video compression formats in desktop and mobile environment.
+Performance analysis about AV1, HEVC and AVC video compression formats in desktop and mobile environment. Objective quality measures (VMAF, PSNR) are provided, together with approximate encoding/decoding times.
 
 Results are in the form of csv data tables, immediately visibile on, e.g., the [github web interface](https://github.com/emasala/AV1-performance-analysis/blob/main/desktop/spreadsheets/sunflower_1080p.csv)
 
